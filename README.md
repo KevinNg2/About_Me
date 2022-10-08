@@ -19,8 +19,8 @@ I want to help other's reach their fitness goals and further my reach by connect
 
 <h3 align="left">my social media</h3>
 <p align="left">
-<a href="https://www.instagram.com/kevin_ng___/" target="blank"><img align="center" src="<i class="fa fa-instagram" style="font-size:48px;color:red"></i>
-" alt="kevin_ng__" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/kevin_ng___/" class="fa fa-instagram"></a>
+
 <a href="mailto: kevinng3292@gmail.com" target="blank"><img align="center" src="📧 " alt="emailkevin" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kevinng3292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevinnglinkedin" height="30" width="40" /></a>
 
