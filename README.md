@@ -24,4 +24,10 @@ I want to help other's reach their fitness goals and further my reach by connect
 <a href="mailto: kevinng3292@gmail.com" target="blank"><img align="center" src="📧 " alt="emailkevin" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kevinng3292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevinnglinkedin" height="30" width="40" /></a>
 
+    
+     <a href="tel:1-908-956-1282">&#9743</a>
+    <a href="mailto:kevinng3292@gmail.com">&#9993</a>
+    <a href="https://github.com/KevinNg2">GitHub</a>
+    <a href="https://www.instagram.com/kevin_ng___/" class="fa fa-instagram"></a>
+    <a href="https://www.linkedin.com/in/kevin-ng-93357a236/" class="fa fa-linkedin"></a>
 <br>
