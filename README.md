@@ -23,6 +23,8 @@ I want to help other's reach their fitness goals and further my reach by connect
 
 <a href="mailto: kevinng3292@gmail.com" target="blank"><img align="center" src="📧 " alt="emailkevin" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kevinng3292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevinnglinkedin" height="30" width="40" /></a>
+<a href="https://leetcode.com/kevinng3292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codinglayla" height="30" width="40" /></a>
+</p>
 
     
 <br>
