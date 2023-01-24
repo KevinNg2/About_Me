@@ -1,3 +1,8 @@
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<br>
+
 <h1 align="center"> 🤝 Hi there! I'm Kevin Ng </h1>
 
 <h3 align="center"> Full Stack Web Developer Bootcamp Graduate from UCI! </h3>
