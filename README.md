@@ -10,8 +10,6 @@
 
 I want to help other's reach their fitness goals and further my reach by connecting with more people online
 
-## Languages and Tools I've Worked With
-
 ## Languages and Technologies
  
 <div>
